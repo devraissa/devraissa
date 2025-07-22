@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Olá! Me chamo Raissa Aciole, sou estudante do 1º período de Engenharia de Software na Uninter e este perfil é focado especialmente nos meus estudos e na minha evolução como desenvolvedora. Sou apaixonada por aprender coisas novas, resolver problemas e evoluir constantemente. Aqui você vai encontrar meus primeiros passos como desenvolvedora — erros, acertos e muita vontade de crescer! 🚀💻<br><br>Além do código, sou apaixonada por tudo que é fofo ✨ — amo café, doces, a My Melody e muitos gatinhos. 💖🐱<br><br>Seja bem-vindo(a) ao meu cantinho de aprendizado!</p>
+<p align="left">Olá! Me chamo Raissa Aciole, sou estudante do 2º período de Engenharia de Software e este perfil é focado especialmente nos meus estudos e na minha evolução como desenvolvedora. Sou apaixonada por aprender coisas novas, resolver problemas e evoluir constantemente. Aqui você vai encontrar meus primeiros passos como desenvolvedora — erros, acertos e muita vontade de crescer! 🚀💻<br><br>Além do código, sou apaixonada por tudo que é fofo ✨ — amo café, doces, a My Melody e muitos gatinhos. 💖🐱<br><br>Seja bem-vindo(a) ao meu cantinho de aprendizado!</p>
 
 ###
 
