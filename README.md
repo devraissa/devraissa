@@ -43,8 +43,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devraissa&theme=omni&show_icons=true&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devraissa&theme=omni&show_icons=true&hide_border=true&layout=compact" height="150" />
+  <img src="https://gitstatus-test.vercel.app/api?username=devraissa&theme=omni&show_icons=true&hide_border=true&count_private=true" height="150" />
+  <img src="https://gitstatus-test.vercel.app/api/top-langs/?username=devraissa&theme=omni&show_icons=true&hide_border=true&layout=compact" height="150" />
 </div>
 
 ###
